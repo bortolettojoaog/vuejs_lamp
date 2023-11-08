@@ -58,7 +58,7 @@ $ code .
 
 # ✔️ Tests:
 <h1 align="center">
-    <img alt="Test" title="Test" src="./github/tests.gif" />
+    <img alt="Test" title="Test" src="../github/tests.gif" />
 </h1>
 
 <br/>
