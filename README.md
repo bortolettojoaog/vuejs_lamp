@@ -58,7 +58,7 @@ $ code .
 
 # ✔️ Tests:
 <h1 align="center">
-    <img alt="Test" title="Test" src="../github/tests.gif" />
+    <img alt="Test" src="[github/tests.gif](https://github.com/bortolettojoaog/vuejs_lamp/tree/main/github)" />
 </h1>
 
 <br/>
